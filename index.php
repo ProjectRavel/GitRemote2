@@ -6,6 +6,10 @@
     <title>Belajar Github</title>
 </head>
 <body>
-    
+    <ul>
+        <li>Nadhira</li>
+        <li>Rafani</li>
+        <li>Ghifari</li>
+    </ul>
 </body>
 </html>
